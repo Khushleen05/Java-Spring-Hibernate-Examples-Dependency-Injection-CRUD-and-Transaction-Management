@@ -1,9 +1,16 @@
-
 # OUTPUT 1:
+
 <img width="1919" height="866" alt="Screenshot 2025-11-01 113638" src="https://github.com/user-attachments/assets/602f7b9a-397c-49f8-adde-d31b97f8860c" />
+
+
 # OUTPUT 2:
+
 <img width="1919" height="870" alt="Screenshot 2025-11-01 113727" src="https://github.com/user-attachments/assets/132d1680-b02d-4e6c-992a-3b73b7c25cda" />
+
+
 # OUTPUT 3:
+
+
 <img width="1919" height="852" alt="Screenshot 2025-11-01 113749" src="https://github.com/user-attachments/assets/b3358df2-f8f7-46ee-915a-5d509a9a07ca" />
 
 
