@@ -1,18 +1,19 @@
 # OUTPUT 1:
 
-<img width="1919" height="866" alt="Screenshot 2025-11-01 113638" src="https://github.com/user-attachments/assets/602f7b9a-397c-49f8-adde-d31b97f8860c" />
+<img width="1919" height="898" alt="Screenshot 2025-11-01 114543" src="https://github.com/user-attachments/assets/3b1b7aae-c5fb-4a41-b764-f933590598ae" />
+
 
 
 # OUTPUT 2:
 
-<img width="1919" height="870" alt="Screenshot 2025-11-01 113727" src="https://github.com/user-attachments/assets/132d1680-b02d-4e6c-992a-3b73b7c25cda" />
+<img width="1919" height="913" alt="Screenshot 2025-11-01 114626" src="https://github.com/user-attachments/assets/81b602bc-9eb2-4668-85a9-dedebe8438d7" />
+
 
 
 # OUTPUT 3:
 
 
-<img width="1919" height="852" alt="Screenshot 2025-11-01 113749" src="https://github.com/user-attachments/assets/b3358df2-f8f7-46ee-915a-5d509a9a07ca" />
-
+<img width="1919" height="901" alt="Screenshot 2025-11-01 114714" src="https://github.com/user-attachments/assets/98827c98-6853-44ca-8076-ab31265bc72f" />
 
 
 
