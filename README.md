@@ -19,7 +19,7 @@
 
 ## Java-Spring-Hibernate-Examples-Dependency-Injection-CRUD-and-Transaction-Management
 
-A collection of simple Java programs demonstrating core Spring and Hibernate concepts in both plain Java (for online compilers) and Spring Boot setups.
+A collection of simple Java programs demonstrating core Spring and Hibernate concepts 
 Covers:
 
 Part A: Spring Dependency Injection using Java-based configuration (@Configuration, @Bean, @Autowired)
@@ -27,5 +27,4 @@ Part A: Spring Dependency Injection using Java-based configuration (@Configurati
 Part B: Hibernate ORM CRUD operations on a Student entity (Create, Read, Update, Delete)
 
 Part C: Transaction Management in a simulated banking system ensuring rollback and atomicity
-
-Includes both conceptual (runnable without setup) and real-world ready code samples to help students and beginners understand the integration of Spring + Hibernate.
+.
